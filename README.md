@@ -1,7 +1,7 @@
 # CircularProgressBar
 Circular Progress Bar using react-native-progress
 
-These is an easy to use react library for progress bar: [React-Native-Progress](https://github.com/oblador/react-native-progress)
+This is an easy to use react library for progress bar: [React-Native-Progress](https://github.com/oblador/react-native-progress)
 
 ```javascript
 import * as Progress from 'react-native-progress';
